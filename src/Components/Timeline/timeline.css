@@ -1,0 +1,46 @@
+.timeline{
+    padding: 0!important;
+}
+
+.timeline .timeline-header{
+    padding-top: 7px;
+}
+
+.timeline .timeline-firstitem{
+    min-height: 80px !important;
+    margin-top:-1.5rem;
+}
+.timeline .MuiTimelineItem-root {
+    min-height: 0px;
+    
+}
+.timeline .MuiTimelineItem-root::marker{
+    color: white;
+}
+.timeline .MuiTimelineItem-missingOppositeContent::before{
+    display: none;
+}
+.timeline .timeline-dot-header{
+    color: black;
+    background: #ffc500;
+    font-size: small;
+    padding: 5px;
+}
+
+/* remaining item */
+.timeline .timeline-dot{
+    color: black;
+  border-color: #ffc500;
+    padding: 3px ;
+}
+.timeline .MuiTimelineConnector-root{
+    background-color: #eee!important;
+}
+.timeline .timeline-dot-header .MuiSvgIcon-root{
+    font-size: 20px;
+    color: darkslategray;
+    
+}
+.timeline .separator-padding{
+    padding-left: 12px;
+}

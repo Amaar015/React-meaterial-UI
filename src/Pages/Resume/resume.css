@@ -1,0 +1,95 @@
+
+
+.aboutme-text{
+    color: darkslategray!important;
+    font: smaller!important;
+    line-height: 22px!important;
+    white-space: pre-line!important;
+  }
+  
+  
+  .resume-timeline .timeline-title{
+    font-size: 16px!important;
+    font-weight: 500!important;
+  }
+  .resume-timeline .timeline-date{
+    color: darkslategrey;
+  }
+  .resume-timeline .timeline-description{
+    color: gray;
+    font-size: small;
+    margin-top: 6px;
+  }
+
+  /* Service  */
+
+  .service{
+     height: 100%;
+     text-align: center;
+  }
+  .service .service-title{
+     font-size: 16px;
+     font-weight: 500;
+     line-height: 35px;
+     text-align: center;
+  }
+  .service .service-description{
+       color: #989898;
+       border-color: var(--main-color);
+       margin-right: 5px;
+       text-align: center;
+  }
+  .service-icon> .MuiSvgIcon-root{
+      font-size: 46px!important;
+      margin-left: 0!important;
+      font-weight: 300!important;
+      color: darkslategrey!important;
+  }
+
+  /* Skills */
+
+  .skill{
+     border-radius: 8px!important;
+     padding: 20px!important;
+     box-shadow: 0px 0px 48px 0px rgba(4, 6,4, 0.08)!important;
+     min-height: 186px!important;
+     height: 100%!important;
+  }
+  .skill .skill-title{
+     font-size: 14px!important;
+     font-weight: 500!important;
+     line-height: 35px!important;
+  }
+  .skill .skill-description{
+      display: flex!important;
+      align-items: center!important;
+      color: #989898!important;
+      font-weight: 400!important;
+      line-height: 18px!important;
+  }
+  .skill .skill-description .timeline-dot{
+       color: black;
+       border-color: var(--main-color);
+       padding: 2px;
+       margin-right: 5px;
+  }
+
+  /* Contact Section */
+
+  .contactinfo-item{
+      font-size: 14px;
+      color:#787878;
+      line-height: 34px;
+  }
+  .contactinfo-item >span{
+   color: black;
+   font-weight: 500;
+  }
+  .contactinfo-socialContainer{
+    margin-top: 25px;
+  }
+  .contactinfo-social > a > .MuiSvgIcon-root{
+   font-size: 16px;
+   margin-right: 10px;
+   color: black;
+  }
