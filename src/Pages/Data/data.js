@@ -131,10 +131,10 @@ export default{
 
     ],
      
-    portfolio:[
+    projects:[
         {
             tag:"React",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Fweb-development%2Fbest-reactjs-project-examples%2F&psig=AOvVaw3VkC5v8q7WRpnm6RJsRwzy&ust=1700557817574000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjV_Zvd0IIDFQAAAAAdAAAAABAE",
+            Image:"./image/project-1.jpg",
             title:"React Project 1",
             description:"This is the react project and Material Ui designed",
             links:[
@@ -145,7 +145,7 @@ export default{
         },
         {
             tag:"React",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Fweb-development%2Fbest-reactjs-project-examples%2F&psig=AOvVaw3VkC5v8q7WRpnm6RJsRwzy&ust=1700557817574000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjV_Zvd0IIDFQAAAAAdAAAAABAR",
+            Image:"./image/project-2.jpg",
             title:"React Project 2",
             description:"This is the react project and Material Ui designed",
             links:[
@@ -156,7 +156,7 @@ export default{
         },
         {
             tag:"React",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fthemobilereality.com%2Fblog%2Freact-ui-component-frameworks&psig=AOvVaw3VkC5v8q7WRpnm6RJsRwzy&ust=1700557817574000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjV_Zvd0IIDFQAAAAAdAAAAABAZ",
+            Image:"./image/project-3.jpg",
             title:"React Project 3",
             description:"This is the react project and Material Ui designed",
             links:[
@@ -166,9 +166,9 @@ export default{
             ]
         },
         {
-            tag:"Python",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fanvil.works%2Farticles%2Fpython-gui-builder-web&psig=AOvVaw2MGm6uvVGC1N4roGodb7Pt&ust=1700559577086000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjRl-Pj0IIDFQAAAAAdAAAAABAE",
-            title:"React Project 1",
+            tag:"React",
+            Image:"./image/post-3.webp",
+            title:"React Project 4",
             description:"This is the react project and Material Ui designed",
             links:[
                 {link:"https://www.google.com",icon:<YouTubeIcon/>},
@@ -178,8 +178,41 @@ export default{
         },
         {
             tag:"Python",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fexternlabs.com%2Fblogs%2Fhow-to-develop-python-mobile-app%2F&psig=AOvVaw2MGm6uvVGC1N4roGodb7Pt&ust=1700559577086000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjRl-Pj0IIDFQAAAAAdAAAAABAR",
-            title:"React Project 2",
+            Image:"./image/project-4.jpg",
+            title:"Python Project 1",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Python",
+            Image:"./image/post-1.jpeg",
+            title:"Python Project 2",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Python",
+            Image:"./image/post-4.jpeg",
+            title:"Python Project 1",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Python",
+            Image:"./image/post-6.jpg",
+            title:"Python Project 2",
             description:"This is the react project and Material Ui designed",
             links:[
                 {link:"https://www.google.com",icon:<YouTubeIcon/>},
@@ -189,8 +222,41 @@ export default{
         },
         {
             tag:"Java",
-            Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fedureka%2Fjava-projects-db51097281e3&psig=AOvVaw0laAeg6IRKwRfKATh21QQj&ust=1700559660549000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiR_Yrk0IIDFQAAAAAdAAAAABAE",
-            title:"React Project 1",
+            Image:"./image/post-2.jpg",
+            title:"Java Project 1",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Java",
+            Image:"./image/post-8.jpeg",
+            title:"Java Project 2",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Java",
+            Image:"./image/post-9.jpeg",
+            title:"Java Project 3",
+            description:"This is the react project and Material Ui designed",
+            links:[
+                {link:"https://www.google.com",icon:<YouTubeIcon/>},
+                {link:"https://www.google.com",icon:<GitHubIcon/>},
+                {link:"https://www.google.com",icon:<LanguageIcon/>},
+            ]
+        },
+        {
+            tag:"Java",
+            Image:"./image/post-5.webp",
+            title:"Java Project 4",
             description:"This is the react project and Material Ui designed",
             links:[
                 {link:"https://www.google.com",icon:<YouTubeIcon/>},
